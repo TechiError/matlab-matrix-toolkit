@@ -1,0 +1,22 @@
+# MATLAB files
+*.asv
+*.mex*
+*.slx
+*.mdl
+*.autosave
+*.discrete
+*.m~
+*.mexw64
+*.mexw32
+*.mexglx
+*.mexmaci64
+*.mexmaci
+
+# Octave files
+*.oct~
+.toOctave_workspace_save.mat
+
+# IDE
+.vscode/
+*.swp
+*.swo
