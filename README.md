@@ -21,24 +21,24 @@ A beginner-friendly MATLAB console application for performing common matrix and 
 
 ## Features
 
-- ➕ Matrix Addition
-- ➖ Matrix Subtraction
-- ✖ Matrix Multiplication
-- 🔢 Scalar Multiplication
-- 🔄 Matrix Transpose
-- 🧮 Matrix Inverse
-- 📐 Determinant
-- 📊 Rank
-- 📈 Trace
-- ✅ Input Validation
-- 🖥️ Interactive Console Menu
-- 🎨 Formatted Side-by-Side Output
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Multiplication
+- Scalar Multiplication
+- Matrix Transpose
+- Matrix Inverse
+- Determinant
+- Rank
+- Trace
+- Input Validation
+- Interactive Console Menu
+- Formatted Side-by-Side Output
 
 
 ## Supported Operations
 
 | Operation | Status |
-|--|::|
+| ------------- | ------------- |
 | Matrix Addition | ✅ |
 | Matrix Subtraction | ✅ |
 | Matrix Multiplication | ✅ |
